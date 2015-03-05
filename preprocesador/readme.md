@@ -19,9 +19,11 @@ Se hace uso del editor [ace editor] para el despliegue del resultado.
 
 Vídeo uso: http://youtu.be/d08rQiHXWu4
 
-### Autor
-Jorge Rubaino
-[@ostjh]
+### Autores
+Preprocesador: Jorge Rubaino [@ostjh]
+Gramática : Viviana Paola Salcedo Saavedra
+
+
 License
 ----
 MIT
