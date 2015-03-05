@@ -1,0 +1,400 @@
+1425321852396,60552,Get Competitors,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,Thread Group 1-1,text,false,1919,200,200,0
+1425321852396,60548,Get Competitors,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,Thread Group 1-2,text,false,1919,200,200,0
+1425321852665,60277,Get Competitors,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,Thread Group 1-3,text,false,1919,200,200,0
+1425321852968,59974,Get Competitors,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,Thread Group 1-4,text,false,1919,200,200,0
+1425321853270,59679,Get Competitors,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,Thread Group 1-5,text,false,1919,200,200,0
+1425321853570,59377,Get Competitors,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,Thread Group 1-6,text,false,1919,200,200,0
+1425321853873,59612,Get Competitors,200,OK,Thread Group 1-7,text,true,189,200,200,59611
+1425321854176,59772,Get Competitors,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,Thread Group 1-8,text,false,1919,200,200,0
+1425321854476,59473,Get Competitors,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,Thread Group 1-9,text,false,1919,200,200,0
+1425321854778,59171,Get Competitors,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,Thread Group 1-10,text,false,1919,200,200,0
+1425321855080,59866,Get Competitors,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,Thread Group 1-11,text,false,1919,200,200,0
+1425321855383,59560,Get Competitors,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,Thread Group 1-12,text,false,1919,200,200,0
+1425321855686,59260,Get Competitors,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,Thread Group 1-13,text,false,1919,200,200,0
+1425321855988,59955,Get Competitors,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,Thread Group 1-14,text,false,1919,200,200,0
+1425321856291,59651,Get Competitors,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,Thread Group 1-15,text,false,1919,200,200,0
+1425321856592,59350,Get Competitors,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,Thread Group 1-16,text,false,1919,200,200,0
+1425321856894,60047,Get Competitors,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,Thread Group 1-17,text,false,1919,199,199,0
+1425321857196,56308,Get Competitors,200,OK,Thread Group 1-18,text,true,189,200,200,56307
+1425321857499,59442,Get Competitors,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,Thread Group 1-19,text,false,1919,199,199,0
+1425321857801,60140,Get Competitors,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,Thread Group 1-20,text,false,1919,171,171,0
+1425321858103,59840,Get Competitors,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,Thread Group 1-21,text,false,1919,171,171,0
+1425321858405,59537,Get Competitors,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,Thread Group 1-22,text,false,1919,171,171,0
+1425321858707,59237,Get Competitors,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,Thread Group 1-23,text,false,1919,171,171,0
+1425321859009,59933,Get Competitors,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,Thread Group 1-24,text,false,1919,133,133,0
+1425321859311,59630,Get Competitors,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,Thread Group 1-25,text,false,1919,133,133,0
+1425321859612,58221,Get Competitors,503,Service Unavailable,Thread Group 1-26,text,false,693,176,176,58221
+1425321859914,58204,Get Competitors,503,Service Unavailable,Thread Group 1-27,text,false,693,160,160,58204
+1425321860216,58204,Get Competitors,503,Service Unavailable,Thread Group 1-28,text,false,693,150,150,58204
+1425321860518,58194,Get Competitors,503,Service Unavailable,Thread Group 1-29,text,false,693,139,139,58194
+1425321860820,58208,Get Competitors,503,Service Unavailable,Thread Group 1-30,text,false,693,130,130,58208
+1425321861122,52370,Get Competitors,200,OK,Thread Group 1-31,text,true,189,200,200,52370
+1425321861423,56325,Get Competitors,503,Service Unavailable,Thread Group 1-32,text,false,693,179,179,56325
+1425321861726,56247,Get Competitors,503,Service Unavailable,Thread Group 1-33,text,false,693,170,170,56247
+1425321862027,56211,Get Competitors,503,Service Unavailable,Thread Group 1-34,text,false,693,155,155,56211
+1425321862329,56190,Get Competitors,503,Service Unavailable,Thread Group 1-35,text,false,693,146,146,56190
+1425321862631,50865,Get Competitors,200,OK,Thread Group 1-36,text,true,189,200,200,50863
+1425321862932,56203,Get Competitors,503,Service Unavailable,Thread Group 1-37,text,false,693,126,126,56203
+1425321863233,54206,Get Competitors,503,Service Unavailable,Thread Group 1-38,text,false,693,190,190,54206
+1425321863536,56192,Get Competitors,503,Service Unavailable,Thread Group 1-39,text,false,693,116,116,56192
+1425321863836,54204,Get Competitors,503,Service Unavailable,Thread Group 1-40,text,false,693,166,166,54204
+1425321864140,54202,Get Competitors,503,Service Unavailable,Thread Group 1-41,text,false,693,153,153,54202
+1425321864442,54200,Get Competitors,503,Service Unavailable,Thread Group 1-42,text,false,693,142,142,54200
+1425321864744,54197,Get Competitors,503,Service Unavailable,Thread Group 1-43,text,false,693,133,133,54197
+1425321865045,54207,Get Competitors,503,Service Unavailable,Thread Group 1-44,text,false,693,123,123,54207
+1425321865347,54205,Get Competitors,503,Service Unavailable,Thread Group 1-45,text,false,693,118,118,54204
+1425321865649,52192,Get Competitors,503,Service Unavailable,Thread Group 1-46,text,false,693,175,175,52192
+1425321865953,52197,Get Competitors,503,Service Unavailable,Thread Group 1-47,text,false,693,159,159,52197
+1425321866254,52189,Get Competitors,503,Service Unavailable,Thread Group 1-48,text,false,693,149,149,52189
+1425321866553,52195,Get Competitors,503,Service Unavailable,Thread Group 1-49,text,false,693,138,138,52195
+1425321866855,52204,Get Competitors,503,Service Unavailable,Thread Group 1-50,text,false,693,129,129,52204
+1425321867157,50192,Get Competitors,503,Service Unavailable,Thread Group 1-51,text,false,693,194,194,50192
+1425321867458,50191,Get Competitors,503,Service Unavailable,Thread Group 1-52,text,false,693,183,183,50191
+1425321867761,50188,Get Competitors,503,Service Unavailable,Thread Group 1-53,text,false,693,171,171,50188
+1425321868062,45477,Get Competitors,200,OK,Thread Group 1-54,text,true,189,200,200,45477
+1425321868364,50185,Get Competitors,503,Service Unavailable,Thread Group 1-55,text,false,693,143,143,50185
+1425321868666,50220,Get Competitors,503,Service Unavailable,Thread Group 1-56,text,false,693,135,135,50220
+1425321868967,50188,Get Competitors,503,Service Unavailable,Thread Group 1-57,text,false,693,125,125,50188
+1425321869269,50205,Get Competitors,503,Service Unavailable,Thread Group 1-58,text,false,693,120,120,50204
+1425321869571,48198,Get Competitors,503,Service Unavailable,Thread Group 1-59,text,false,693,178,178,48198
+1425321869874,48196,Get Competitors,503,Service Unavailable,Thread Group 1-60,text,false,693,164,164,48196
+1425321870176,43312,Get Competitors,200,OK,Thread Group 1-61,text,true,189,200,200,43311
+1425321870477,48180,Get Competitors,503,Service Unavailable,Thread Group 1-62,text,false,693,141,141,48180
+1425321870779,48191,Get Competitors,503,Service Unavailable,Thread Group 1-63,text,false,693,132,132,48191
+1425321871081,48178,Get Competitors,503,Service Unavailable,Thread Group 1-64,text,false,693,122,122,48178
+1425321871382,46200,Get Competitors,503,Service Unavailable,Thread Group 1-65,text,false,693,187,187,46200
+1425321871684,46179,Get Competitors,503,Service Unavailable,Thread Group 1-66,text,false,693,173,173,46179
+1425321871986,46197,Get Competitors,503,Service Unavailable,Thread Group 1-67,text,false,693,157,157,46197
+1425321872288,46175,Get Competitors,503,Service Unavailable,Thread Group 1-68,text,false,693,148,148,46175
+1425321872590,46183,Get Competitors,503,Service Unavailable,Thread Group 1-69,text,false,693,136,136,46183
+1425321872891,46185,Get Competitors,503,Service Unavailable,Thread Group 1-70,text,false,693,127,127,46185
+1425321873193,44193,Get Competitors,503,Service Unavailable,Thread Group 1-71,text,false,693,192,192,44193
+1425321873495,44187,Get Competitors,503,Service Unavailable,Thread Group 1-72,text,false,693,181,181,44187
+1425321873797,44178,Get Competitors,503,Service Unavailable,Thread Group 1-73,text,false,693,170,170,44178
+1425321874099,39406,Get Competitors,200,OK,Thread Group 1-74,text,true,189,200,200,39393
+1425321874402,39133,Get Competitors,200,OK,Thread Group 1-75,text,true,189,200,200,39131
+1425321874703,44186,Get Competitors,503,Service Unavailable,Thread Group 1-76,text,false,693,134,134,44186
+1425321875004,44181,Get Competitors,503,Service Unavailable,Thread Group 1-77,text,false,693,124,124,44180
+1425321875305,44188,Get Competitors,503,Service Unavailable,Thread Group 1-78,text,false,693,119,119,44188
+1425321875606,37871,Get Competitors,200,OK,Thread Group 1-79,text,true,189,200,200,37870
+1425321875909,42190,Get Competitors,503,Service Unavailable,Thread Group 1-80,text,false,693,163,163,42190
+1425321876212,42179,Get Competitors,503,Service Unavailable,Thread Group 1-81,text,false,693,152,152,42179
+1425321876513,42184,Get Competitors,503,Service Unavailable,Thread Group 1-82,text,false,693,140,140,42184
+1425321876815,42177,Get Competitors,503,Service Unavailable,Thread Group 1-83,text,false,693,131,131,42177
+1425321877118,42179,Get Competitors,503,Service Unavailable,Thread Group 1-84,text,false,693,121,121,42178
+1425321877419,40189,Get Competitors,503,Service Unavailable,Thread Group 1-85,text,false,693,186,186,40189
+1425321877722,40172,Get Competitors,503,Service Unavailable,Thread Group 1-86,text,false,693,172,172,40172
+1425321878023,35516,Get Competitors,200,OK,Thread Group 1-87,text,true,189,200,200,35516
+1425321878323,39173,Get Competitors,503,Service Unavailable,Thread Group 1-88,text,false,693,189,189,39172
+1425321878626,39177,Get Competitors,503,Service Unavailable,Thread Group 1-89,text,false,693,177,177,39177
+1425321878929,39173,Get Competitors,503,Service Unavailable,Thread Group 1-90,text,false,693,163,163,39173
+1425321879231,39178,Get Competitors,503,Service Unavailable,Thread Group 1-91,text,false,693,151,151,39178
+1425321879532,38167,Get Competitors,503,Service Unavailable,Thread Group 1-92,text,false,693,180,180,38167
+1425321879834,38171,Get Competitors,503,Service Unavailable,Thread Group 1-93,text,false,693,168,168,38171
+1425321880137,37173,Get Competitors,503,Service Unavailable,Thread Group 1-94,text,false,693,196,196,37173
+1425321880438,37179,Get Competitors,503,Service Unavailable,Thread Group 1-95,text,false,693,185,185,37178
+1425321880740,32807,Get Competitors,200,OK,Thread Group 1-96,text,true,189,200,200,32800
+1425321881042,37181,Get Competitors,503,Service Unavailable,Thread Group 1-97,text,false,693,156,156,37181
+1425321881343,37177,Get Competitors,503,Service Unavailable,Thread Group 1-98,text,false,693,146,146,37177
+1425321881645,36163,Get Competitors,503,Service Unavailable,Thread Group 1-99,text,false,693,177,177,36163
+1425321881958,35167,Get Competitors,503,Service Unavailable,Thread Group 1-100,text,false,693,198,198,35167
+1425321882250,35171,Get Competitors,503,Service Unavailable,Thread Group 1-101,text,false,693,191,191,35171
+1425321882551,30985,Get Competitors,200,OK,Thread Group 1-102,text,true,189,200,200,30984
+1425321882853,35181,Get Competitors,503,Service Unavailable,Thread Group 1-103,text,false,693,167,167,35180
+1425321883155,34169,Get Competitors,503,Service Unavailable,Thread Group 1-104,text,false,693,195,195,34169
+1425321883457,34210,Get Competitors,503,Service Unavailable,Thread Group 1-105,text,false,693,182,182,34210
+1425321883758,33176,Get Competitors,503,Service Unavailable,Thread Group 1-106,text,false,693,200,200,33176
+1425321884058,33166,Get Competitors,503,Service Unavailable,Thread Group 1-107,text,false,693,197,197,33166
+1425321884362,34171,Get Competitors,503,Service Unavailable,Thread Group 1-108,text,false,693,144,144,34171
+1425321884663,33179,Get Competitors,503,Service Unavailable,Thread Group 1-109,text,false,693,175,175,33179
+1425321884965,28513,Get Competitors,200,OK,Thread Group 1-110,text,true,189,200,200,28513
+1425321885267,28224,Get Competitors,200,OK,Thread Group 1-111,text,true,189,200,200,28224
+1425321885569,27902,Get Competitors,200,OK,Thread Group 1-112,text,true,189,200,200,27902
+1425321885870,32168,Get Competitors,503,Service Unavailable,Thread Group 1-113,text,false,693,167,167,32168
+1425321886173,31192,Get Competitors,503,Service Unavailable,Thread Group 1-114,text,false,693,193,193,31192
+1425321886474,31172,Get Competitors,503,Service Unavailable,Thread Group 1-115,text,false,693,184,184,31172
+1425321886777,30164,Get Competitors,503,Service Unavailable,Thread Group 1-116,text,false,693,199,199,30164
+1425321887078,31167,Get Competitors,503,Service Unavailable,Thread Group 1-117,text,false,693,154,154,31167
+1425321887380,30172,Get Competitors,503,Service Unavailable,Thread Group 1-118,text,false,693,188,188,30172
+1425321887682,25792,Get Competitors,200,OK,Thread Group 1-119,text,true,189,200,200,25792
+1425321887984,30169,Get Competitors,503,Service Unavailable,Thread Group 1-120,text,false,693,158,158,30169
+1425321888284,30179,Get Competitors,503,Service Unavailable,Thread Group 1-121,text,false,693,148,148,30179
+1425321888587,30176,Get Competitors,503,Service Unavailable,Thread Group 1-122,text,false,693,137,137,30176
+1425321888889,30170,Get Competitors,503,Service Unavailable,Thread Group 1-123,text,false,693,129,129,30170
+1425321889191,24293,Get Competitors,200,OK,Thread Group 1-124,text,true,189,200,200,24293
+1425321889493,30180,Get Competitors,503,Service Unavailable,Thread Group 1-125,text,false,693,117,117,30180
+1425321889795,30171,Get Competitors,503,Service Unavailable,Thread Group 1-126,text,false,693,115,115,30171
+1425321890097,23388,Get Competitors,200,OK,Thread Group 1-127,text,true,189,200,200,23387
+1425321890398,1733,Get Competitors,200,OK,Thread Group 1-128,text,true,189,133,133,1732
+1425321890701,30163,Get Competitors,503,Service Unavailable,Thread Group 1-129,text,false,693,114,114,30163
+1425321891002,30171,Get Competitors,503,Service Unavailable,Thread Group 1-130,text,false,693,113,113,30171
+1425321891307,22198,Get Competitors,200,OK,Thread Group 1-131,text,true,189,200,200,22174
+1425321891608,28105,Get Competitors,500,Service Unavailable,Thread Group 1-132,text,false,32656,116,116,28022
+1425321891910,30164,Get Competitors,503,Service Unavailable,Thread Group 1-133,text,false,693,112,112,30164
+1425321892146,30174,Add Competitors,503,Service Unavailable,Thread Group 1-128,text,false,693,111,111,30174
+1425321892212,30167,Get Competitors,503,Service Unavailable,Thread Group 1-134,text,false,693,110,110,30166
+1425321892514,30158,Get Competitors,503,Service Unavailable,Thread Group 1-135,text,false,693,109,109,30158
+1425321892816,30228,Get Competitors,503,Service Unavailable,Thread Group 1-136,text,false,693,108,108,30228
+1425321893117,30169,Get Competitors,503,Service Unavailable,Thread Group 1-137,text,false,693,107,107,30169
+1425321893419,30163,Get Competitors,503,Service Unavailable,Thread Group 1-138,text,false,693,106,106,30163
+1425321893721,30162,Get Competitors,503,Service Unavailable,Thread Group 1-139,text,false,693,105,105,30162
+1425321894023,30185,Get Competitors,503,Service Unavailable,Thread Group 1-140,text,false,693,104,104,30185
+1425321894327,30225,Get Competitors,503,Service Unavailable,Thread Group 1-141,text,false,693,103,103,30225
+1425321894629,30159,Get Competitors,503,Service Unavailable,Thread Group 1-142,text,false,693,102,102,30159
+1425321894930,30179,Get Competitors,503,Service Unavailable,Thread Group 1-143,text,false,693,101,101,30179
+1425321895232,30163,Get Competitors,503,Service Unavailable,Thread Group 1-144,text,false,693,100,100,30163
+1425321895534,30162,Get Competitors,503,Service Unavailable,Thread Group 1-145,text,false,693,99,99,30162
+1425321895835,30162,Get Competitors,503,Service Unavailable,Thread Group 1-146,text,false,693,98,98,30162
+1425321896137,30170,Get Competitors,503,Service Unavailable,Thread Group 1-147,text,false,693,97,97,30170
+1425321896439,30171,Get Competitors,503,Service Unavailable,Thread Group 1-148,text,false,693,96,96,30171
+1425321896741,30169,Get Competitors,503,Service Unavailable,Thread Group 1-149,text,false,693,94,94,30168
+1425321897044,30163,Get Competitors,503,Service Unavailable,Thread Group 1-150,text,false,693,93,93,30163
+1425321897344,30192,Get Competitors,503,Service Unavailable,Thread Group 1-151,text,false,693,92,92,30192
+1425321897647,30178,Get Competitors,503,Service Unavailable,Thread Group 1-152,text,false,693,91,91,30178
+1425321897950,30168,Get Competitors,503,Service Unavailable,Thread Group 1-153,text,false,693,90,90,30168
+1425321898250,30205,Get Competitors,503,Service Unavailable,Thread Group 1-154,text,false,693,89,89,30205
+1425321898551,30206,Get Competitors,503,Service Unavailable,Thread Group 1-155,text,false,693,88,88,30206
+1425321898854,30159,Get Competitors,503,Service Unavailable,Thread Group 1-156,text,false,693,86,86,30159
+1425321899156,30166,Get Competitors,503,Service Unavailable,Thread Group 1-157,text,false,693,85,85,30166
+1425321899457,30160,Get Competitors,503,Service Unavailable,Thread Group 1-158,text,false,693,84,84,30159
+1425321899759,30170,Get Competitors,503,Service Unavailable,Thread Group 1-159,text,false,693,83,83,30170
+1425321900061,30161,Get Competitors,503,Service Unavailable,Thread Group 1-160,text,false,693,81,81,30161
+1425321900363,30174,Get Competitors,503,Service Unavailable,Thread Group 1-161,text,false,693,80,80,30174
+1425321900665,30164,Get Competitors,503,Service Unavailable,Thread Group 1-162,text,false,693,79,79,30164
+1425321900967,30165,Get Competitors,503,Service Unavailable,Thread Group 1-163,text,false,693,78,78,30165
+1425321901268,30158,Get Competitors,503,Service Unavailable,Thread Group 1-164,text,false,693,77,77,30157
+1425321901571,30199,Get Competitors,503,Service Unavailable,Thread Group 1-165,text,false,693,76,76,30199
+1425321901872,30183,Get Competitors,503,Service Unavailable,Thread Group 1-166,text,false,693,75,75,30183
+1425321902174,30175,Get Competitors,503,Service Unavailable,Thread Group 1-167,text,false,693,74,74,30175
+1425321902476,30183,Get Competitors,503,Service Unavailable,Thread Group 1-168,text,false,693,73,73,30182
+1425321902777,30169,Get Competitors,503,Service Unavailable,Thread Group 1-169,text,false,693,72,72,30169
+1425321903079,30165,Get Competitors,503,Service Unavailable,Thread Group 1-170,text,false,693,71,71,30165
+1425321903381,30163,Get Competitors,503,Service Unavailable,Thread Group 1-171,text,false,693,69,69,30163
+1425321903683,30168,Get Competitors,503,Service Unavailable,Thread Group 1-172,text,false,693,67,67,30168
+1425321903985,30167,Get Competitors,503,Service Unavailable,Thread Group 1-173,text,false,693,66,66,30167
+1425321904286,30169,Get Competitors,503,Service Unavailable,Thread Group 1-174,text,false,693,65,65,30169
+1425321904589,30168,Get Competitors,503,Service Unavailable,Thread Group 1-175,text,false,693,64,64,30168
+1425321904891,30161,Get Competitors,503,Service Unavailable,Thread Group 1-176,text,false,693,63,63,30161
+1425321905193,30182,Get Competitors,503,Service Unavailable,Thread Group 1-177,text,false,693,62,62,30182
+1425321905496,30156,Get Competitors,503,Service Unavailable,Thread Group 1-178,text,false,693,61,61,30156
+1425321905797,30165,Get Competitors,503,Service Unavailable,Thread Group 1-179,text,false,693,59,59,30165
+1425321906098,30173,Get Competitors,503,Service Unavailable,Thread Group 1-180,text,false,693,57,57,30173
+1425321906399,30163,Get Competitors,503,Service Unavailable,Thread Group 1-181,text,false,693,56,56,30163
+1425321906701,30167,Get Competitors,503,Service Unavailable,Thread Group 1-182,text,false,693,54,54,30167
+1425321907002,30165,Get Competitors,503,Service Unavailable,Thread Group 1-183,text,false,693,53,53,30165
+1425321907304,30189,Get Competitors,503,Service Unavailable,Thread Group 1-184,text,false,693,52,52,30189
+1425321907606,30165,Get Competitors,503,Service Unavailable,Thread Group 1-185,text,false,693,50,50,30164
+1425321907908,30163,Get Competitors,503,Service Unavailable,Thread Group 1-186,text,false,693,48,48,30163
+1425321908208,30170,Get Competitors,503,Service Unavailable,Thread Group 1-187,text,false,693,44,44,30170
+1425321908509,30166,Get Competitors,503,Service Unavailable,Thread Group 1-188,text,false,693,40,40,30165
+1425321908811,30166,Get Competitors,503,Service Unavailable,Thread Group 1-189,text,false,693,38,38,30166
+1425321909114,30177,Get Competitors,503,Service Unavailable,Thread Group 1-190,text,false,693,36,36,30177
+1425321909415,30190,Get Competitors,503,Service Unavailable,Thread Group 1-191,text,false,693,35,35,30190
+1425321909716,30170,Get Competitors,503,Service Unavailable,Thread Group 1-192,text,false,693,32,32,30170
+1425321910019,30174,Get Competitors,503,Service Unavailable,Thread Group 1-193,text,false,693,30,30,30174
+1425321910321,30165,Get Competitors,503,Service Unavailable,Thread Group 1-194,text,false,693,28,28,30165
+1425321910621,30166,Get Competitors,503,Service Unavailable,Thread Group 1-195,text,false,693,27,27,30166
+1425321910924,30160,Get Competitors,503,Service Unavailable,Thread Group 1-196,text,false,693,25,25,30160
+1425321911227,30164,Get Competitors,503,Service Unavailable,Thread Group 1-197,text,false,693,24,24,30164
+1425321911528,30168,Get Competitors,503,Service Unavailable,Thread Group 1-198,text,false,693,22,22,30168
+1425321911830,30177,Get Competitors,503,Service Unavailable,Thread Group 1-199,text,false,693,20,20,30177
+1425321912131,30158,Get Competitors,503,Service Unavailable,Thread Group 1-200,text,false,693,18,18,30158
+1425321912965,30162,Add Competitors,503,Service Unavailable,Thread Group 1-2,text,false,693,16,16,30162
+1425321912965,30162,Add Competitors,503,Service Unavailable,Thread Group 1-5,text,false,693,16,16,30162
+1425321912965,30162,Add Competitors,503,Service Unavailable,Thread Group 1-1,text,false,693,16,16,30162
+1425321912965,30170,Add Competitors,503,Service Unavailable,Thread Group 1-3,text,false,693,12,12,30170
+1425321912966,30164,Add Competitors,503,Service Unavailable,Thread Group 1-6,text,false,693,13,13,30164
+1425321912966,30166,Add Competitors,503,Service Unavailable,Thread Group 1-4,text,false,693,12,12,30166
+1425321913472,24903,Add Competitors,200,OK,Thread Group 1-112,text,true,189,45,45,24902
+1425321913475,24694,Add Competitors,200,OK,Thread Group 1-119,text,true,189,47,47,24693
+1425321913481,24932,Add Competitors,200,OK,Thread Group 1-110,text,true,189,43,43,24930
+1425321913481,26172,Add Competitors,200,OK,Thread Group 1-79,text,true,189,34,34,26172
+1425321913485,25031,Add Competitors,200,OK,Thread Group 1-124,text,true,189,41,41,25025
+1425321913486,24218,Add Competitors,200,OK,Thread Group 1-7,text,true,189,51,51,24216
+1425321913486,24965,Add Competitors,200,OK,Thread Group 1-127,text,true,189,42,42,24964
+1425321913489,24883,Add Competitors,200,OK,Thread Group 1-61,text,true,189,46,46,24882
+1425321913492,26403,Add Competitors,200,OK,Thread Group 1-111,text,true,189,31,31,26402
+1425321913493,24399,Add Competitors,200,OK,Thread Group 1-31,text,true,189,49,49,24398
+1425321913497,25206,Add Competitors,200,OK,Thread Group 1-36,text,true,189,39,39,25168
+1425321913505,25492,Add Competitors,200,OK,Thread Group 1-18,text,true,189,37,37,25485
+1425321913507,23155,Add Competitors,200,OK,Thread Group 1-74,text,true,189,55,55,23154
+1425321913507,26287,Add Competitors,200,OK,Thread Group 1-131,text,true,189,33,33,26251
+1425321913536,26910,Add Competitors,200,OK,Thread Group 1-75,text,true,189,29,29,26910
+1425321913536,27397,Add Competitors,200,OK,Thread Group 1-102,text,true,189,26,26,27393
+1425321913540,22431,Add Competitors,200,OK,Thread Group 1-54,text,true,189,58,58,22427
+1425321913541,22192,Add Competitors,200,OK,Thread Group 1-87,text,true,189,60,60,22192
+1425321913548,27943,Add Competitors,200,OK,Thread Group 1-96,text,true,189,23,23,27942
+1425321913950,28091,Add Competitors,200,OK,Thread Group 1-8,text,true,189,19,19,28089
+1425321913951,27996,Add Competitors,200,OK,Thread Group 1-9,text,true,189,21,21,27995
+1425321913951,28444,Add Competitors,200,OK,Thread Group 1-10,text,true,189,17,17,28428
+1425321914948,18506,Add Competitors,200,OK,Thread Group 1-12,text,true,189,70,70,18500
+1425321914948,18835,Add Competitors,200,OK,Thread Group 1-11,text,true,189,68,68,18818
+1425321914949,28474,Add Competitors,200,OK,Thread Group 1-13,text,true,189,10,10,28473
+1425321915944,28628,Add Competitors,200,OK,Thread Group 1-14,text,true,189,9,9,28596
+1425321915944,28669,Add Competitors,200,OK,Thread Group 1-16,text,true,189,8,8,28668
+1425321915944,28719,Add Competitors,200,OK,Thread Group 1-15,text,true,189,7,7,28718
+1425321916936,0,Add Competitors,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,Thread Group 1-106,text,false,1919,200,200,0
+1425321916943,0,Add Competitors,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,Thread Group 1-116,text,false,1919,199,199,0
+1425321916943,13003,Add Competitors,200,OK,Thread Group 1-19,text,true,189,82,82,13003
+1425321916945,28376,Add Competitors,200,OK,Thread Group 1-17,text,true,189,6,6,28372
+1425321917126,1,Add Competitors,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,Thread Group 1-100,text,false,1919,198,198,0
+1425321917225,1,Add Competitors,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,Thread Group 1-107,text,false,1919,197,197,0
+1425321917311,1,Add Competitors,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,Thread Group 1-94,text,false,1919,196,196,0
+1425321917325,1,Add Competitors,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,Thread Group 1-104,text,false,1919,195,195,0
+1425321917350,1,Add Competitors,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,Thread Group 1-51,text,false,1919,194,194,0
+1425321917366,0,Add Competitors,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,Thread Group 1-114,text,false,1919,193,193,0
+1425321917387,0,Add Competitors,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,Thread Group 1-71,text,false,1919,192,192,0
+1425321917425,1,Add Competitors,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,Thread Group 1-101,text,false,1919,191,191,0
+1425321917441,0,Add Competitors,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,Thread Group 1-38,text,false,1919,190,190,0
+1425321917496,1,Add Competitors,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,Thread Group 1-88,text,false,1919,189,189,0
+1425321917553,1,Add Competitors,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,Thread Group 1-118,text,false,1919,188,188,0
+1425321917583,0,Add Competitors,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,Thread Group 1-65,text,false,1919,187,187,0
+1425321917609,0,Add Competitors,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,Thread Group 1-85,text,false,1919,186,186,0
+1425321917617,1,Add Competitors,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,Thread Group 1-95,text,false,1919,185,185,0
+1425321917647,1,Add Competitors,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,Thread Group 1-115,text,false,1919,184,184,0
+1425321917653,1,Add Competitors,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,Thread Group 1-52,text,false,1919,183,183,0
+1425321917668,1,Add Competitors,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,Thread Group 1-105,text,false,1919,182,182,0
+1425321917683,1,Add Competitors,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,Thread Group 1-72,text,false,1919,181,181,0
+1425321917700,0,Add Competitors,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,Thread Group 1-92,text,false,1919,180,180,0
+1425321917750,1,Add Competitors,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,Thread Group 1-32,text,false,1919,179,179,0
+1425321917770,0,Add Competitors,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,Thread Group 1-59,text,false,1919,178,178,0
+1425321917804,305,Add Competitors,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,Thread Group 1-89,text,false,1919,161,161,0
+1425321917809,1,Add Competitors,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,Thread Group 1-99,text,false,1919,177,177,0
+1425321917834,0,Add Competitors,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,Thread Group 1-26,text,false,1919,176,176,0
+1425321917843,1,Add Competitors,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,Thread Group 1-46,text,false,1919,175,175,0
+1425321917843,1,Add Competitors,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,Thread Group 1-109,text,false,1919,175,175,0
+1425321917864,1,Add Competitors,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,Thread Group 1-66,text,false,1919,173,173,0
+1425321917896,1,Add Competitors,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,Thread Group 1-86,text,false,1919,172,172,0
+1425321917943,27986,Add Competitors,200,OK,Thread Group 1-22,text,true,189,5,5,27986
+1425321917943,28128,Add Competitors,200,OK,Thread Group 1-20,text,true,189,4,4,28117
+1425321917944,28691,Add Competitors,200,OK,Thread Group 1-21,text,true,189,3,3,28689
+1425321917946,10972,Add Competitors,200,OK,Thread Group 1-23,text,true,189,87,87,10969
+1425321917950,1,Add Competitors,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,Thread Group 1-53,text,false,1919,171,171,0
+1425321917975,1,Add Competitors,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,Thread Group 1-33,text,false,1919,170,170,0
+1425321917977,1,Add Competitors,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,Thread Group 1-73,text,false,1919,169,169,0
+1425321918008,1,Add Competitors,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,Thread Group 1-93,text,false,1919,168,168,0
+1425321918037,1,Add Competitors,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,Thread Group 1-103,text,false,1919,167,167,0
+1425321918039,1,Add Competitors,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,Thread Group 1-113,text,false,1919,166,166,0
+1425321918043,1,Add Competitors,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,Thread Group 1-40,text,false,1919,165,165,0
+1425321918071,1,Add Competitors,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,Thread Group 1-60,text,false,1919,164,164,0
+1425321918100,1,Add Competitors,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,Thread Group 1-80,text,false,1919,163,163,0
+1425321918103,1,Add Competitors,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,Thread Group 1-90,text,false,1919,162,162,0
+1425321918119,0,Add Competitors,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,Thread Group 1-27,text,false,1919,160,160,0
+1425321918151,0,Add Competitors,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,Thread Group 1-47,text,false,1919,159,159,0
+1425321918156,0,Add Competitors,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,Thread Group 1-120,text,false,1919,158,158,0
+1425321918184,0,Add Competitors,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,Thread Group 1-67,text,false,1919,157,157,0
+1425321918224,1,Add Competitors,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,Thread Group 1-97,text,false,1919,156,156,0
+1425321918239,0,Add Competitors,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,Thread Group 1-34,text,false,1919,155,155,0
+1425321918246,0,Add Competitors,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,Thread Group 1-117,text,false,1919,154,154,0
+1425321918343,1,Add Competitors,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,Thread Group 1-41,text,false,1919,153,153,0
+1425321918392,1,Add Competitors,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,Thread Group 1-81,text,false,1919,152,152,0
+1425321918410,0,Add Competitors,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,Thread Group 1-91,text,false,1919,151,151,0
+1425321918421,1,Add Competitors,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,Thread Group 1-28,text,false,1919,150,150,0
+1425321918444,1,Add Competitors,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,Thread Group 1-48,text,false,1919,149,149,0
+1425321918464,1,Add Competitors,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,Thread Group 1-68,text,false,1919,148,148,0
+1425321918464,1,Add Competitors,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,Thread Group 1-121,text,false,1919,148,148,0
+1425321918520,0,Add Competitors,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,Thread Group 1-35,text,false,1919,146,146,0
+1425321918521,0,Add Competitors,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,Thread Group 1-98,text,false,1919,145,145,0
+1425321918534,1,Add Competitors,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,Thread Group 1-108,text,false,1919,144,144,0
+1425321918551,0,Add Competitors,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,Thread Group 1-55,text,false,1919,143,143,0
+1425321918643,0,Add Competitors,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,Thread Group 1-42,text,false,1919,142,142,0
+1425321918658,0,Add Competitors,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,Thread Group 1-62,text,false,1919,141,141,0
+1425321918698,0,Add Competitors,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,Thread Group 1-82,text,false,1919,140,140,0
+1425321918712,1,Add Competitors,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,Thread Group 1-29,text,false,1919,139,139,0
+1425321918748,1,Add Competitors,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,Thread Group 1-49,text,false,1919,138,138,0
+1425321918764,0,Add Competitors,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,Thread Group 1-122,text,false,1919,137,137,0
+1425321918773,1,Add Competitors,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,Thread Group 1-69,text,false,1919,136,136,0
+1425321918886,1,Add Competitors,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,Thread Group 1-56,text,false,1919,135,135,0
+1425321918890,1,Add Competitors,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,Thread Group 1-76,text,false,1919,134,134,0
+1425321918942,1,Add Competitors,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,Thread Group 1-43,text,false,1919,133,133,0
+1425321918942,28028,Add Competitors,200,OK,Thread Group 1-25,text,true,189,2,2,28028
+1425321918943,7941,Add Competitors,200,OK,Thread Group 1-24,text,true,189,95,95,7941
+1425321918971,0,Add Competitors,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,Thread Group 1-63,text,false,1919,132,132,0
+1425321918993,0,Add Competitors,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,Thread Group 1-83,text,false,1919,131,131,0
+1425321919029,0,Add Competitors,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,Thread Group 1-30,text,false,1919,130,130,0
+1425321919061,1,Add Competitors,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,Thread Group 1-50,text,false,1919,129,129,0
+1425321919061,1,Add Competitors,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,Thread Group 1-123,text,false,1919,129,129,0
+1425321919077,1,Add Competitors,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,Thread Group 1-70,text,false,1919,127,127,0
+1425321919135,1,Add Competitors,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,Thread Group 1-37,text,false,1919,126,126,0
+1425321919156,0,Add Competitors,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,Thread Group 1-57,text,false,1919,125,125,0
+1425321919185,1,Add Competitors,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,Thread Group 1-77,text,false,1919,124,124,0
+1425321919253,0,Add Competitors,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,Thread Group 1-44,text,false,1919,123,123,0
+1425321919260,0,Add Competitors,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,Thread Group 1-64,text,false,1919,122,122,0
+1425321919297,1,Add Competitors,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,Thread Group 1-84,text,false,1919,121,121,0
+1425321919475,0,Add Competitors,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,Thread Group 1-58,text,false,1919,120,120,0
+1425321919494,0,Add Competitors,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,Thread Group 1-78,text,false,1919,119,119,0
+1425321919553,0,Add Competitors,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,Thread Group 1-45,text,false,1919,118,118,0
+1425321919674,1,Add Competitors,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,Thread Group 1-125,text,false,1919,117,117,0
+1425321919715,27513,Add Competitors,200,OK,Thread Group 1-132,text,true,189,1,1,27513
+1425321919729,1,Add Competitors,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,Thread Group 1-39,text,false,1919,116,116,0
+1425321919974,4,Add Competitors,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,Thread Group 1-126,text,false,1919,115,115,0
+1425321920866,0,Add Competitors,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,Thread Group 1-129,text,false,1919,114,114,0
+1425321921336,0,Add Competitors,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,Thread Group 1-130,text,false,1919,113,113,0
+1425321922075,0,Add Competitors,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,Thread Group 1-133,text,false,1919,112,112,0
+1425321922379,1,Add Competitors,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,Thread Group 1-134,text,false,1919,110,110,0
+1425321922673,1,Add Competitors,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,Thread Group 1-135,text,false,1919,109,109,0
+1425321923045,0,Add Competitors,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,Thread Group 1-136,text,false,1919,108,108,0
+1425321923288,0,Add Competitors,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,Thread Group 1-137,text,false,1919,107,107,0
+1425321923583,0,Add Competitors,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,Thread Group 1-138,text,false,1919,106,106,0
+1425321923884,1,Add Competitors,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,Thread Group 1-139,text,false,1919,105,105,0
+1425321924209,0,Add Competitors,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,Thread Group 1-140,text,false,1919,104,104,0
+1425321924553,1,Add Competitors,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,Thread Group 1-141,text,false,1919,103,103,0
+1425321924789,0,Add Competitors,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,Thread Group 1-142,text,false,1919,102,102,0
+1425321925110,1,Add Competitors,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,Thread Group 1-143,text,false,1919,101,101,0
+1425321925396,1,Add Competitors,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,Thread Group 1-144,text,false,1919,100,100,0
+1425321925697,1,Add Competitors,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,Thread Group 1-145,text,false,1919,99,99,0
+1425321925998,1,Add Competitors,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,Thread Group 1-146,text,false,1919,98,98,0
+1425321926308,0,Add Competitors,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,Thread Group 1-147,text,false,1919,97,97,0
+1425321926611,1,Add Competitors,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,Thread Group 1-148,text,false,1919,96,96,0
+1425321926911,0,Add Competitors,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,Thread Group 1-149,text,false,1919,94,94,0
+1425321927208,0,Add Competitors,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,Thread Group 1-150,text,false,1919,93,93,0
+1425321927537,1,Add Competitors,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,Thread Group 1-151,text,false,1919,92,92,0
+1425321927826,1,Add Competitors,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,Thread Group 1-152,text,false,1919,91,91,0
+1425321928119,1,Add Competitors,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,Thread Group 1-153,text,false,1919,90,90,0
+1425321928455,1,Add Competitors,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,Thread Group 1-154,text,false,1919,89,89,0
+1425321928759,0,Add Competitors,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,Thread Group 1-155,text,false,1919,88,88,0
+1425321929014,0,Add Competitors,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,Thread Group 1-156,text,false,1919,86,86,0
+1425321929324,0,Add Competitors,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,Thread Group 1-157,text,false,1919,85,85,0
+1425321929618,0,Add Competitors,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,Thread Group 1-158,text,false,1919,84,84,0
+1425321929930,1,Add Competitors,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,Thread Group 1-159,text,false,1919,83,83,0
+1425321930223,0,Add Competitors,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,Thread Group 1-160,text,false,1919,81,81,0
+1425321930538,0,Add Competitors,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,Thread Group 1-161,text,false,1919,80,80,0
+1425321930830,0,Add Competitors,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,Thread Group 1-162,text,false,1919,79,79,0
+1425321931133,1,Add Competitors,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,Thread Group 1-163,text,false,1919,78,78,0
+1425321931426,1,Add Competitors,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,Thread Group 1-164,text,false,1919,77,77,0
+1425321931771,0,Add Competitors,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,Thread Group 1-165,text,false,1919,76,76,0
+1425321932056,0,Add Competitors,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,Thread Group 1-166,text,false,1919,75,75,0
+1425321932350,1,Add Competitors,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,Thread Group 1-167,text,false,1919,74,74,0
+1425321932659,1,Add Competitors,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,Thread Group 1-168,text,false,1919,73,73,0
+1425321932947,0,Add Competitors,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,Thread Group 1-169,text,false,1919,72,72,0
+1425321933245,1,Add Competitors,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,Thread Group 1-170,text,false,1919,71,71,0
+1425321933545,1,Add Competitors,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,Thread Group 1-171,text,false,1919,69,69,0
+1425321933852,0,Add Competitors,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,Thread Group 1-172,text,false,1919,67,67,0
+1425321934153,1,Add Competitors,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,Thread Group 1-173,text,false,1919,66,66,0
+1425321934456,0,Add Competitors,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,Thread Group 1-174,text,false,1919,65,65,0
+1425321934758,0,Add Competitors,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,Thread Group 1-175,text,false,1919,64,64,0
+1425321935053,0,Add Competitors,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,Thread Group 1-176,text,false,1919,63,63,0
+1425321935376,1,Add Competitors,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,Thread Group 1-177,text,false,1919,62,62,0
+1425321935653,1,Add Competitors,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,Thread Group 1-178,text,false,1919,61,61,0
+1425321935963,1,Add Competitors,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,Thread Group 1-179,text,false,1919,59,59,0
+1425321936272,0,Add Competitors,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,Thread Group 1-180,text,false,1919,57,57,0
+1425321936563,0,Add Competitors,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,Thread Group 1-181,text,false,1919,56,56,0
+1425321936869,1,Add Competitors,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,Thread Group 1-182,text,false,1919,54,54,0
+1425321937168,1,Add Competitors,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,Thread Group 1-183,text,false,1919,53,53,0
+1425321937494,1,Add Competitors,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,Thread Group 1-184,text,false,1919,52,52,0
+1425321937771,1,Add Competitors,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,Thread Group 1-185,text,false,1919,50,50,0
+1425321938072,1,Add Competitors,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,Thread Group 1-186,text,false,1919,48,48,0
+1425321938389,1,Add Competitors,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,Thread Group 1-187,text,false,1919,44,44,0
+1425321938675,1,Add Competitors,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,Thread Group 1-188,text,false,1919,40,40,0
+1425321938978,1,Add Competitors,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,Thread Group 1-189,text,false,1919,38,38,0
+1425321939291,1,Add Competitors,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,Thread Group 1-190,text,false,1919,36,36,0
+1425321939606,1,Add Competitors,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,Thread Group 1-191,text,false,1919,35,35,0
+1425321939887,0,Add Competitors,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,Thread Group 1-192,text,false,1919,32,32,0
+1425321940194,0,Add Competitors,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,Thread Group 1-193,text,false,1919,30,30,0
+1425321940487,0,Add Competitors,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,Thread Group 1-194,text,false,1919,28,28,0
+1425321940788,1,Add Competitors,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,Thread Group 1-195,text,false,1919,27,27,0
+1425321941085,0,Add Competitors,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,Thread Group 1-196,text,false,1919,25,25,0
+1425321941392,0,Add Competitors,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,Thread Group 1-197,text,false,1919,24,24,0
+1425321941697,84,Add Competitors,Non HTTP response code: java.net.SocketException,Non HTTP response message: Connection reset,Thread Group 1-198,text,false,2237,22,22,0
+1425321942008,1,Add Competitors,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,Thread Group 1-199,text,false,1919,20,20,0
+1425321942290,0,Add Competitors,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: The target server failed to respond,Thread Group 1-200,text,false,1919,18,18,0

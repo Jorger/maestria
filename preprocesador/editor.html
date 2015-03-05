@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Document</title>
+    <script src = "script.js"></script>
+    <script>
+        var conEditor = true;
+    </script>
+    <link rel="stylesheet" type="text/css" href="estilos.css">
+</head>
+<body>
+    <div>
+        <div id = "cuerpo">
+            <center><h1>Preporcesador CSV</h1></center><hr>
+            <table width="100%" border = "0" cellspacing="5" cellpadding="5">
+            <tr>
+                <td width="50%">
+                    <b>Arquitectura 1 - Agregate Report:</b><br><br>
+                        <input type="file" id="agregate1"><br><br>
+                    <b>Arquitectura 1 - Latencies/CodesPerSecond:</b><br><br>
+                    <input type="file" id="latencies1"><br><br>
+                </td>                
+                <td width="50%">
+                    <b>Arquitectura 2 - Agregate Report:</b><br><br>
+                        <input type="file" id="agregate2"><br><br>
+                    <b>Arquitectura 2 - Latencies/CodesPerSecond:</b><br><br>
+                        <input type="file" id="latencies2"><br><br>                    
+                </td>
+            </tr>
+            </table>
+            <hr>
+            <table width="100%" border = "0" cellspacing="5" cellpadding="5">
+            <tr>
+                <td width="50%">
+                    <b>Cantidad de muestras latencia: </b>
+                        <select id = "mlatencia">
+                            <option value="5">05</option>
+                            <option value="10">10</option>
+                            <option value="15">15</option>
+                            <option value="20">20</option>
+                        </select>
+                </td>              
+                <td width="50%">
+                    <b>Encabezado Latencias Over Time</b>
+                    <select id = "tencabeza">
+                        <option value="0">NO</option>
+                        <option value="1">SI</option>
+                    </select>
+                </td>
+            </tr>
+            </table>
+            <hr>
+            <center>
+                <select id = "exporta">
+                    <option value="1">XMI</option>
+                    <option value="2">CSV</option>
+                </select>
+                <button id = 'procesa'>Procesar Archivo</button>
+                <button id = 'acerca'>Acerca de </button>
+            </center>
+            <br>
+        </div>
+        <div id="editor"></div>
+    </div>
+    <script src="//cdn.jsdelivr.net/ace/1.1.8/min/ace.js" type="text/javascript" charset="utf-8"></script>
+    <script>
+        var editor = ace.edit("editor");
+        //editor.setTheme("ace/theme/monokai");
+        editor.getSession().setMode("ace/mode/xml");
+    </script>
+</body>
+</html>

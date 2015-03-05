@@ -1,0 +1,35 @@
+body
+{
+	font-family: Arial;
+	font-size: 12px;
+	background-color: rgba(218, 216, 216, 0.7)
+}
+#contenido{
+	overflow: scroll;
+	width: 97%;
+	padding: 10px;
+	height: 350px;
+	border: 1px solid red;
+	font-size: 10px;
+}
+
+#cuerpo
+{
+  	margin: 1px auto;  	
+  	position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;  
+    width: 90%;
+    height: 300px;
+}
+
+#editor 
+{ 
+    position: absolute;
+    top: 330px;
+    right: 0;
+    bottom: 0;
+    left: 0;
+}
