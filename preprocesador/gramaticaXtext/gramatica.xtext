@@ -1,0 +1,62 @@
+grammar edu.uniandes.gramatica.CsvDsl with org.eclipse.xtext.common.Terminals
+
+generate csvDsl "http://www.uniandes.edu/gramatica/CsvDsl"
+/*
+ * INFORMACION ADICIONAL
+ * 
+		Desarrollado por: Viviana Paola Salcedo Saavedra
+		timeStamp - in milliseconds since 1/1/1970
+		elapsed - in milliseconds
+		label - sampler label
+		responseCode - e.g. 200, 404
+		responseMessage - e.g. OK
+		threadName
+		dataType - e.g. text
+		success - true or false
+		failureMessage - if any
+		bytes - number of bytes in the sample
+		grpThreads - number of active threads in this thread group
+		allThreads - total number of active threads in all groups
+		URL
+		Filename - if Save Response to File was used
+		latency - time to first response
+		encoding
+		SampleCount - number of samples (1, unless multiple samples are aggregated)
+		ErrorCount - number of errors (0 or 1, unless multiple samples are aggregated)
+		Hostname where the sample was generated
+		IdleTime - number of milliseconds of 'Idle' time (normally 0)
+		Variables, if specified
+ */
+
+//--------------Reglas de Produccion---------------------
+ArchivoCsv: encabezado=Encabezado NL
+	consolidado=Consolidado NL
+	encabezado2=Encabezado NL
+	pruebas+=Pruebas (NL + pruebas+=Pruebas)*  NL*
+;
+
+
+Encabezado: caracteristica+=Caracteristica (COMMA caracteristica+=Caracteristica)+;
+Caracteristica: rotulo=ROTULO;
+Consolidado:
+	datos+=Datos (COMMA datos+=Datos)+
+;
+
+Datos:
+	value= NOMBRE | value = DECIMAL | value = EXPONENTIAL | value=HILO
+;
+
+Pruebas:
+	datos+=Datos (COMMA datos+=Datos)+
+;
+
+
+//--------------Terminales-------------------------------
+terminal ROTULO: ('a'..'z'|'A'..'Z'|'_') ('a'..'z'|'A'..'Z'|'_'|'0'..'9'|'%')*;
+terminal NOMBRE: ('a'..'z'|'A'..'Z'|' '|'0'..'9')*;
+terminal DECIMAL: ('0'..'9')+ ('.' ('0'..'9')+)?;
+terminal EXPONENTIAL: ('0'..'9')+ '.' ('0'..'9')+'E+'('0'..'9')+;
+terminal COMMA:',';
+terminal HILO: NOMBRE DASH DECIMAL;
+terminal DASH:'-';
+terminal NL: ('\r')?'\n';
